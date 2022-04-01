@@ -17,6 +17,10 @@ color:white;
 font-family:'Fredoka One', cursive;
 background-color:purple;
 }
+h2{
+    color:green;
+    text-align: right;
+}
 p
 {
 font-weight:bold;	
